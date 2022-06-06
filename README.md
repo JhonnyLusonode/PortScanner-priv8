@@ -1,5 +1,5 @@
 # PortScanner-priv8
-Simple PortScanner
+Simple PortScanner made in Python
 
 How to use:<br>
 - Usage: ./scanport.py <IP address> <start port> <end port>
